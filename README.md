@@ -2,14 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/BaseHands/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/BaseHands/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/BaseHands/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BaseHands/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BaseHands/azure-network-protocols)
-
+- <b>Active Directory</b>
+  - [Active Directory: Creating Organizational Units, Groups, and Users](https://github.com/BaseHands/osticket-prereqs)
+ 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
