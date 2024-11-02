@@ -13,4 +13,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: www.linkedin.com/in/brandon-williams-7bb069324
+[linkedin]: https://www.linkedin.com/in/brandon-williams-7bb069324
