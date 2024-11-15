@@ -3,8 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory: Creating Organizational Units, Groups, and Users](https://github.com/BaseHands/osticket-prereqs)
- 
+  - [Active Directory: Creating Organizational Units, Groups, and Users](https://github.com/BaseHands/Active-Directory-Organizational-Trees) 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
